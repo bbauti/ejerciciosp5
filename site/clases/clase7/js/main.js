@@ -61,11 +61,11 @@ alert(`EJ7-1 Necesitarás ${snacks} snacks para que te alcancen hasta los ${edad
 
 // Ejercicio dos
 
-let dias = prompt(`EJ7-2 - Ingresa la cantidad de dias que vas a viajar`);
+let diasViaje = prompt(`EJ7-2 - Ingresa la cantidad de dias que vas a viajar`);
 let presupuesto = prompt(`EJ7-2 - Ingresa tu presupuesto maximo`);
 let cantComidas = prompt(`EJ7-2 - Cuantas comidas vas a tener por dia?`);
 let precioComidas = presupuesto/cantComidas;
-alert(`EJ7-2 Podés gastar hasta ${precioComidas} en cada comida para que te alcance la plata durante los ${dias} días de viaje`);
+alert(`EJ7-2 Podés gastar hasta ${precioComidas} en cada comida para que te alcance la plata durante los ${diasViaje} días de viaje`);
 
 ////////////////////////////////
 
