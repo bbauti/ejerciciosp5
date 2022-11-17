@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(32, 32, 32);
+}
+
+.titulo {
+  display: flex;
+  justify-content: center;
+  margin: 10vw;
+  text-align: center;
+  align-items: center;
+  font-family: "Ubuntu Mono", monospace;
+  transition: all 0.3s ease;
+  color: rgb(224, 224, 224);
+  font-size: 5rem;
+  transition: all 0.3s ease;
+  width: fit-content;
+}
+.titulo:hover {
+  transform: scale(1.1);
+  color: rgb(129, 22, 218);
+}

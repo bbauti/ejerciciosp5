@@ -1,0 +1,30 @@
+.centrar {
+    text-align: center;
+    justify-content: center;
+}
+
+.foto {
+    width: 10em;
+    border-radius: 10px;
+}
+
+.separar {
+    padding: 1em;
+}
+
+img {
+    border-radius: 10px;
+    margin-bottom: 1em;
+}
+
+.texto {
+    font-size: larger;
+}
+
+.container {
+    margin-top: 5em;
+}
+
+a {
+    text-decoration: none;
+}
