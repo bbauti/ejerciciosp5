@@ -285,7 +285,7 @@ setTimeout(() => {
         }
     }
     inicio()
-}, 1);
+}, 10000);
 
 // Ejercicios individuales, para mejor lectura.
 
