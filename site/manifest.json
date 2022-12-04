@@ -3,7 +3,7 @@
   "short_name": "bbauti",
   "theme_color": "#AC1ED7",
   "background_color": "#2b2b2b",
-  "display": "browser",
+  "display": "standalone",
   "orientation": "portrait",
   "scope": "/",
   "start_url": "/",

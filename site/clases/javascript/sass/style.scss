@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(32, 32, 32);
+}
+
+.texto {
+    font-family: 'Ubuntu Mono', monospace;
+    transition: all .3s ease;
+    width: fit-content;
+    cursor: default;
+    text-align: center;
+}
+
+.titulo{
+    margin: 10vw auto 5vw auto;
+    text-align: center;
+    transition: all 0.3s ease;
+    color:rgb(224, 224, 224);
+    font-size:5rem;
+    &:hover {
+        transform: scale(1.1);
+        color:rgb(129, 22, 218);
+    }
+}
+
+.subtitulo{
+    margin: 7vw auto 2vw auto;
+    text-align: center;
+    transition: all 0.3s ease;
+    color:rgb(224, 224, 224);
+    font-size:2rem;
+}
+
+.gradient {
+    display: inline-block;
+    transition: all .3s ease;
+    &:hover {
+        transform: translateY(-10px);
+        color:#FFCA28;
+    }
+}
+
+.small{
+    margin: 1.5vw auto;
+    transition: all 0.3s ease;
+    color:rgb(224, 224, 224);
+    font-size:1rem;
+    transition: all .3s ease;
+}
