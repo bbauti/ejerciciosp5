@@ -1,6 +1,6 @@
 # BBAUTI / Ejercicios Plataforma 5
 
-Esta pagina esta hosteada en [Railway](https://railway.app/)
+Sitio web estatico para los ejercicios de plataforma 5.
 
 ## ✨ Componentes
 
